@@ -1,0 +1,21 @@
+Fake Google Job Offer Email
+
+Subject: You're Hired! Google Job Offer Confirmation Letter
+
+From: careers@googl-e-jobs.com (notice fake domain)
+
+Body:
+
+Dear Candidate,
+
+Congratulations! After reviewing your resume, we are pleased to inform you that you have been selected for a position at Google Inc.
+
+Please download the attached offer letter and follow the instructions to proceed with your onboarding process.
+
+Note: A refundable security deposit of ₹7,500 is required to confirm your appointment. This will be reimbursed with your first salary.
+
+Click below to complete the verification process:
+Click Here to Confirm Offer
+
+Best regards,
+Google HR Team
