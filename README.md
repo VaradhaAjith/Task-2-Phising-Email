@@ -12,7 +12,7 @@ Finding from the Email:
 
 3.Suspicious link: Redirects to .ru domain
 
-4.Urgency: “Confirm your appointment now”
+4.Urgency: Confirm your appointment now
 
 5.Grammar errors: Unusual punctuation and spacing
 
