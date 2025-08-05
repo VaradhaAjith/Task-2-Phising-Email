@@ -10,7 +10,7 @@ Finding from the Email:
 
 2.Unprofessional request: Asking for a security deposit
 
-3.Suspicious link: Redirects to .ru domain
+3.Suspicious link: Redirects to .ru domain(malicious)
 
 4.Urgency: Confirm your appointment now
 
